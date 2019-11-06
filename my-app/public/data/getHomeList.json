@@ -1,0 +1,37 @@
+{
+  "data":{
+    "topicList":[
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_6?v=1568268246_1572510848","txt":"厨具"},
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_7?v=1568268246_1572510848","txt":"灯具"},
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_3?v=1568268246_1572510848","txt":"家纺"},
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_4?v=1568268246_1572510848","txt":"家具"},
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_5?v=1568268246_1572510848","txt":"被子"},
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_5?v=1568268246_1572510848","txt":"枕芯"},
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_3?v=1568268246_1572510848","txt":"坐垫"},
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_4?v=1568268246_1572510848","txt":"床单"},
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_7?v=1568268246_1572510848","txt":"桌布"},
+      {"topicUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_6?v=1568268246_1572510848","txt":"茶具"}
+    ],
+    "list":[
+      {"id": "1","listUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_3?v=1568268246_1572510848","singleUrl":"http://asset.ibanquan.com/image/58808dbf0dd76c1c970000c2/s.jpeg?v=1484819903","txt":"自然生活，精选用料","desc":"青竹良品原创生活类电商品牌，秉承一贯的严谨态度，我们深入世界各地，从源头全程严格把控商品生产环节，力求帮消费者甄选到最优质的商品，全线采用天然原材料，控制甲醛低量无害，采用进口工艺，国际生产线不断优化，食材保证核心原产地新鲜直供，让你享受品质生活。"},
+      {"id": "2","listUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_4?v=1568268246_1572510848","singleUrl":"http://asset.ibanquan.com/image/58808de93f8f9009880000ce/s.jpeg?v=1484819945","txt":"源点生活","desc":"EKEDALEN 伊克多兰 系列所有桌子都暗藏精巧设计：虽然表面上看不到任何接合零件，但实际上它们都可以延展，你只需拖动桌腿即可展开桌面。椅子呢？椅套可以拆除和机洗，如果你想换个风格，随时更换椅套即可。这一系列全新的用餐家具非常实用，有许多值得一说的特色。"},
+      {"id": "3","listUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_5?v=1568268246_1572510848","singleUrl":"http://asset.ibanquan.com/image/58808c659bedc407d80000a9/s.jpeg?v=1484819557","txt":"puree好设计好生活","desc":"传统风格 HEMNES 汉尼斯 卧室系列的设计着眼未来。这一系列结实耐用，大部分为实木材质，并且会随着岁月流逝更显精美古朴，因而可以陪伴您很多年。舒适温馨的床和大容量抽屉柜均有多种颜色可供选择，为你提供打造梦想卧室所需的一切。"},
+      {"id": "4","listUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_6?v=1568268246_1572510848","singleUrl":"http://asset.ibanquan.com/s/30611/727/index_slide_1?v=1568268246_1572860962","txt":"家居精品之选","desc":"保持生活井井有条意味着你把它们安排在了合理的地方，有条理的人恰当地安排事物，并给存储空间贴了标签。把你总是要用的东西放在随手可得的地方，不要混乱了你的存储空间。创造性地为事物寻找存储地方。此外，有一条大禁忌：不要为存储空间贴上“其他”的标签"},
+      {"id": "5","listUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_7?v=1568268246_1572510848","singleUrl":"http://asset.ibanquan.com/s/30611/727/index_slide_2?v=1568268246_1572860962","txt":"木香，手工制作","desc":"很多人因为害怕费用高昂、耗费时间或有始无终，而懒于为自己的家做任何改变。但是居住空间也需要不断发展，设计当下的生活，也设计理想中的生活。宜家为您列出近年来的热卖家具产品，来看看家居达人们都在买什么产品, 来一起改变你的家。"}
+    ],
+    "sineList":[
+      {"sineUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_3?v=1568268246_1572510848","title":"自然生活，精选用料"},
+      {"sineUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_4?v=1568268246_1572510848","title":"源点生活"},
+      {"sineUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_5?v=1568268246_1572510848","title":"puree好设计好生活"},
+      {"sineUrl":"http://asset.ibanquan.com/s/30611/727/index_global1_pic_6?v=1568268246_1572510848","title":"家居精品之选"}
+    ],
+    "scanList":[
+      {"txt":"9 款高颜值饭盒推荐"},
+      {"txt":"养成七种整理习惯"},
+      {"txt":"年度盘点｜ Top20"},
+      {"txt":"9 款高颜值饭盒推荐"},
+      {"txt":"养成七种整理习惯"},
+      {"txt":"年度盘点｜ Top20"}
+    ]
+  }
+}
